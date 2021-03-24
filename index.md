@@ -234,6 +234,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Caglar Koksal, Phd
 1. Caio Raposo
 1. Calub Veim (CollabVM)
+1. Calvin Metcalf
 1. Calvin Spealman (@ironfroggy, Red Hat Inc.)
 1. Cameron Cash (PizzaLovingNerd)
 1. Cameron Durham
@@ -1107,7 +1108,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
 1. Seth McCombs
-1. Shadi Alostaz
 1. Shane Coughlan
 1. Shane Fagan
 1. Shaun Mouton
